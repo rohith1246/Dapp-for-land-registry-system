@@ -10,6 +10,18 @@ The **Land Registry System** is a decentralized application (DApp) built using *
 - **Smart Contracts**: Smart contracts automatically enforce the terms of land transactions, ensuring both parties meet their obligations.
 - **Decentralized and Transparent**: All transactions are transparent and visible to all network participants, promoting trust and fairness.
 
+# Project Title
+
+## Screenshots
+
+![First Image](images/img_5.png)
+![Second Image](images/img_4.png)
+![Third Image](images/img_3.png)
+![Fourth Image](images/img_2.png)
+![Last Image](images/img_1.png)
+
+
+
 ## Usage
 
 - **Land Registration**: Users can register land properties by submitting details such as location, area, and ownership.
